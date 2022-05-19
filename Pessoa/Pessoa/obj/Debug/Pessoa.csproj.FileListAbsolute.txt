@@ -1,0 +1,5 @@
+C:\Users\Tecnico\Desktop\trabalho_library\Pessoa\Pessoa\bin\Debug\Pessoa.dll
+C:\Users\Tecnico\Desktop\trabalho_library\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\Tecnico\Desktop\trabalho_library\Pessoa\Pessoa\obj\Debug\Pessoa.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\trabalho_library\Pessoa\Pessoa\obj\Debug\Pessoa.dll
+C:\Users\Tecnico\Desktop\trabalho_library\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
