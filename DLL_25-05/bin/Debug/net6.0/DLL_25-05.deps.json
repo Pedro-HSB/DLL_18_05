@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DLL_25-05/1.0.0": {
+        "dependencies": {
+          "Dll_Clie": "1.0.0.0",
+          "Dll_Coor": "1.0.0.0",
+          "Dll_Di": "1.0.0.0",
+          "Dll_Funci": "1.0.0.0",
+          "Dll_Ge": "1.0.0.0",
+          "Dll_P": "1.0.0.0",
+          "Dll_Super": "1.0.0.0"
+        },
+        "runtime": {
+          "DLL_25-05.dll": {}
+        }
+      },
+      "Dll_Clie/1.0.0.0": {
+        "runtime": {
+          "Dll_Clie.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Dll_Coor/1.0.0.0": {
+        "runtime": {
+          "Dll_Coor.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Dll_Di/1.0.0.0": {
+        "runtime": {
+          "Dll_Di.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Dll_Funci/1.0.0.0": {
+        "runtime": {
+          "Dll_Funci.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Dll_Ge/1.0.0.0": {
+        "runtime": {
+          "Dll_Ge.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Dll_P/1.0.0.0": {
+        "runtime": {
+          "Dll_P.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Dll_Super/1.0.0.0": {
+        "runtime": {
+          "Dll_Super.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLL_25-05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll_Clie/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll_Coor/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll_Di/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll_Funci/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll_Ge/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll_P/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dll_Super/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

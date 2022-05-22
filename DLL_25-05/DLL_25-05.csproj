@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>DLL_25_05</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Dll_Clie">
+      <HintPath>..\..\Dll_Clie\Dll_Clie\bin\Debug\net6.0\Dll_Clie.dll</HintPath>
+    </Reference>
+    <Reference Include="Dll_Coor">
+      <HintPath>..\..\Dll_Coor\Dll_Coor\bin\Debug\net6.0\Dll_Coor.dll</HintPath>
+    </Reference>
+    <Reference Include="Dll_Di">
+      <HintPath>..\..\Dll_Di\Dll_Di\bin\Debug\net6.0\Dll_Di.dll</HintPath>
+    </Reference>
+    <Reference Include="Dll_Funci">
+      <HintPath>..\..\Dll_Funci\Dll_Funci\bin\Debug\net6.0\Dll_Funci.dll</HintPath>
+    </Reference>
+    <Reference Include="Dll_Ge">
+      <HintPath>..\..\Dll_Ge\Dll_Ge\bin\Debug\net6.0\Dll_Ge.dll</HintPath>
+    </Reference>
+    <Reference Include="Dll_P">
+      <HintPath>..\..\Dll_P\Dll_P\bin\Debug\net6.0\Dll_P.dll</HintPath>
+    </Reference>
+    <Reference Include="Dll_Super">
+      <HintPath>..\..\Dll_Super\Dll_Super\bin\Debug\net6.0\Dll_Super.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
